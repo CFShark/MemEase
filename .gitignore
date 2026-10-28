@@ -1,0 +1,7 @@
+.dsh-pilot/
+build/
+github-upload/
+*.log
+
+Thumbs.db
+desktop.ini
